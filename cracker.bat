@@ -1,5 +1,5 @@
 @echo off
-title WinRAR-Cracke - MrUknnown
+title WinRAR-Cracker - MrUknnown
 color 1e
 ::------------ Interface ------------::
 echo.
