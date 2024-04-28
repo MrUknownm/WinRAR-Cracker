@@ -1,6 +1,6 @@
 @echo off
 title WinRAR-Cracke - MrUknnown
-color a
+color 1e
 ::------------ Interface ------------::
 echo.
 echo   :=-----------------------------------------------------------------------=:
