@@ -1,6 +1,6 @@
 @echo off
 title WinRAR-Cracke - MrUknnown
-color 2
+color a
 if not exist "C:\Program Files\7-Zip" (
 	echo 7-Zip not installed!
 	pause
