@@ -1,6 +1,23 @@
 @echo off
 title WinRAR-Cracke - MrUknnown
 color a
+::------------ Interface ------------::
+echo.
+echo   :=-----------------------------------------------------------------------=:
+echo.
+echo         ___                       _____                    __             
+echo        / _ \ ___ _  ___  ___     / ___/  ____ ___ _ ____  / /__ ___   ____
+echo       / ___// _ `/ ^(_-^< ^(_-^<    / /__   / __// _ `// __/ /  '_// -_^) / __/
+echo      /_/    \_,_/ /___//___/    \___/  /_/   \_,_/ \__/ /_/\_\ \__/ /_/   
+echo.
+echo.
+echo.
+echo        Author  : Psi505    ^|  Description : This is a simple batch program
+echo        Version : 1.2       ^|  to help you crack Rar/Zip/7z passwords.
+echo.
+echo   :=-----------------------------------------------------------------------=:
+timeout /t 8 >nul
+::-----------------------------------::
 if not exist "C:\Program Files\7-Zip" (
 	echo 7-Zip not installed!
 	pause
