@@ -11,7 +11,7 @@ This WinRAR cracker is a command-line tool designed for educational purposes to 
 ## Usage
 1. Ensure that 7-Zip is installed in the default location (`C:\Program Files\7-Zip`). If it's not installed, download and install it from [7-Zip's official website](https://www.7-zip.org/).
 2. Prepare a wordlist file containing potential passwords to attempt cracking.
-3. Run the `WinRAR-Cracker.bat` file.
+3. Run the `cracker.bat` file.
 4. Follow the prompts to enter the path to the WinRAR archive and the path to the wordlist file.
 5. The tool will attempt to crack the WinRAR archive using each password from the wordlist.
 
