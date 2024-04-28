@@ -12,8 +12,8 @@ echo      /_/    \_,_/ /___//___/    \___/  /_/   \_,_/ \__/ /_/\_\ \__/ /_/
 echo.
 echo.
 echo.
-echo        Author  : Psi505    ^|  Description : This is a simple batch program
-echo        Version : 1.2       ^|  to help you crack Rar/Zip/7z passwords.
+echo        Author  : MrUknown    ^|  Description : This is a simple batch program
+echo        Version : 0.1         ^|  to help you crack Rar/Zip passwords.
 echo.
 echo   :=-----------------------------------------------------------------------=:
 timeout /t 8 >nul
