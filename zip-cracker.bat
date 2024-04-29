@@ -49,7 +49,8 @@ exit
 
 :attempt
 "C:\Program Files\7-Zip\7z.exe" x -p%pass% "%archive%" -o"cracked" -y >nul 2>&1
-echo ATTEMPT : %pass%
+echo [ATTEMPT %count%] [%pass%]
+set /a count=%count%+1
 if /I %errorlevel% EQU 0 (
 	echo Success! Password Found: %pass%
 	pause
