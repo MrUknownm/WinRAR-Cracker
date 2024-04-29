@@ -13,7 +13,7 @@ echo.
 echo.
 echo.
 echo        Author  : MrUknown    ^|  Description : This is a simple batch program
-echo        Version : 0.2       ^|  to help you crack Rar/Zip/7z passwords.
+echo        Version : 0.2         ^|  to help you crack Rar/Zip/7z passwords.
 echo.
 echo   :=-----------------------------------------------------------------------=:
 timeout /t 8 >nul
